@@ -1,0 +1,24 @@
+EmployeeID,FirstName,MiddleInitial,LastName,BirthDate,Gender,CityID,HireDate
+1,Nicole,T,Fuller,00:00.0,F,80,15:36.9
+2,Christine,W,Palmer,00:00.0,F,4,07:56.9
+3,Pablo,Y,Cline,00:00.0,M,70,55:23.3
+4,Darnell,O,Nielsen,00:00.0,M,39,55:02.8
+5,Desiree,L,Stuart,00:00.0,F,23,59:54.7
+6,Holly,E,Collins,00:00.0,M,65,20:18.1
+7,Chadwick,P,Cook,00:00.0,M,39,22:00.7
+8,Julie,E,Dyer,00:00.0,M,18,12:53.4
+9,Daphne,X,King,00:00.0,F,39,48:02.7
+10,Jean,P,Vang,00:00.0,M,9,02:12.6
+11,Sonya,E,Dickson,00:00.0,F,12,59:30.4
+12,Lindsay,M,Chen,00:00.0,F,58,44:25.4
+13,Katina,Y,Marks,00:00.0,M,68,43:52.9
+14,Wendi,G,Buckley,00:00.0,M,32,57:58.3
+15,Kari,D,Finley,00:00.0,M,92,50:11.8
+16,Chadwick,U,Walton,00:00.0,M,28,21:26.6
+17,Seth,D,Franco,00:00.0,M,80,23:03.5
+18,Warren,C,Bartlett,00:00.0,M,58,55:48.6
+19,Bernard,L,Moody,00:00.0,M,54,25:04.4
+20,Shelby,P,Riddle,00:00.0,M,14,36:50.0
+21,Devon,D,Brewer,00:00.0,M,65,13:24.3
+22,Tonia,O,Mc Millan,00:00.0,F,53,18:23.5
+23,Janet,K,Flowers,00:00.0,F,7,52:30.4
